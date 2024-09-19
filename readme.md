@@ -44,7 +44,7 @@ MetaApp é um aplicativo de linha de comando que permite aos usuários inserir, 
 
 4. Execute o aplicativo:
    ```bash
-   node index,js
+   node index.js
    ```
 
 ## Uso
